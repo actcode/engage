@@ -1,0 +1,21 @@
+body { background-color: #f9f9f9; }
+.columns {
+margin: 0;
+padding: 0;
+background-color: transparent;
+font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+div.columns h2 { font-size: 20px; font-weight: bold;}
+div.columns h2 a:link, div.columns h2 a:active, div.columns h2 a:visited { color: #000000; text-decoration: underline; }
+div.columns h3 a:link, div.columns h3 a:active, div.columns h3 a:visited { color: #000000; text-decoration: underline; }
+div.columns h2 a:hover { color: #c2050b; text-decoration: none;}
+div.columns h3 a:hover { color: #c2050b; text-decoration: none;}
+div.columns p { font-size: 16px; color: #000000;}
+aside.moduleInstance54662 h1 {display: none;}
+section.document-spotlight h1, section.document-spotlight h2, section.document-spotlight p, section.document-commentary p { color: #FFFFFF; }
+section.document-spotlight div.featured-content { height: auto; }
+.featured-content { height: auto!important; }
+section.document-commentary a { border-bottom: 1px solid #FFFFFF !important; }
+div.twelve.columns div#interiorContent.twelve.columns article.petition.takeAction div.engagementPanel.section hgroup h1 {font-size:18px;font-weight:normal;}
+p.vanish {display: none;}
+div.twelve.columns div#interiorContent.twelve.columns article.petition.takeAction div.section div.cwForm h3 span.title {display: none;}
