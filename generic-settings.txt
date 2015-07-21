@@ -1,0 +1,7 @@
+==============================
+### Color Codes ###
+==============================
+
+https://admin.cqrcengage.com/theme
+Actionable Color: #13357C
+Actionable Color on Hover: #C82925
