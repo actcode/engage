@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-</head>
-<body>
-	<h1>Test</h1>
-	<h2>This is a test page</h2>
-	<p>This page is for testing code for styles and scripts.</p>
 <script type="text/javascript">
 <!--
 var x = document.createElement("link");
@@ -15,5 +7,3 @@ x.type = 'text/css';
 document.head.appendChild(x);
 -->
 </script>
-</body>
-</html>
